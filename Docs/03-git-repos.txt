@@ -1,0 +1,26 @@
+
+
+Courseware:
+
+
+
+	MyKong
+	https://github.com/mkyong/spring-boot
+
+
+	In 28 minutes:
+	https://github.com/in28minutes/SpringBootForBeginners
+
+
+	Java Guides
+	https://github.com/RameshMF/spring-boot-tutorial
+
+	
+
+
+
+
+SData:
+
+
+https://github.com/thomasdarimont/sd-repositories-best-practices-javaland

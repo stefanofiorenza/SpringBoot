@@ -1,0 +1,72 @@
+
+
+References:
+
+Autoconfiguration Classes:
+https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-auto-configuration-classes.html
+
+Official
+https://docs.spring.io/spring-boot/docs/current/reference/html/using-spring-boot.html
+https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-profiles
+
+
+Guides:
+
+	@Lokesh Gupta:
+	https://howtodoinjava.com/spring-boot-tutorials/
+
+	Spring Boot
+	https://www.javainuse.com/spring/sprboot
+
+	@Java Guides
+	https://www.javaguides.net/p/spring-boot-tutorial.html
+
+	Spring Boot Basic
+	https://www.javatpoint.com/spring-boot-tutorial
+
+	Basic at tutorials point
+	https://www.tutorialspoint.com/spring_boot/index.htm
+	
+	Spring Boot@Viralpatel
+	https://www.viralpatel.net/category/spring/spring-boot/
+	
+	
+
+Tutorials:
+
+	MyKong:
+	https://www.mkyong.com/tutorials/spring-boot-tutorials/
+
+
+	In 28 minutes:
+	https://www.springboottutorial.com/tags/
+
+	JournalDev
+	https://www.journaldev.com/2888/spring-tutorial-spring-core-tutorial#spring-boot-tutorials
+
+
+	Sboot tutorials @Java DevZone
+	https://dzone.com/articles/spring-boot-framework-tutorials	
+	
+	Java In Use:
+	https://www.javainuse.com/spring/sprboot
+
+
+	Spring Boot@ Baeldung
+	https://www.baeldung.com/spring-boot
+
+
+	
+
+By Topic:
+
+
+
+	Spring Rest@ Baeldung
+	https://www.baeldung.com/rest-with-spring-series
+
+	Spring Boot + Security:
+	https://www.javainuse.com/spring/sprboot_sec
+
+
+Articles:

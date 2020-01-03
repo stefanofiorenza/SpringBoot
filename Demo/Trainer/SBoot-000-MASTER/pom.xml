@@ -21,21 +21,14 @@
     </properties>
     
        <dependencies>
-              
-     <dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
-
+        
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
 			<scope>runtime</scope>
 			<optional>true</optional>
 		</dependency>
-		
-
-        
+    
         <dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
@@ -52,12 +45,7 @@
 			<artifactId>commons-io</artifactId>	
 			<version>${commons.io.version}</version>						
 		</dependency>
-		
-		<dependency>
-		    <groupId>mysql</groupId>
-		    <artifactId>mysql-connector-java</artifactId>		  
-		</dependency>
-				
+					
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
@@ -68,8 +56,11 @@
     
        <modules>
        	<module>SBoot-010-Commons</module>
-       	<module>SBoot-100-Configurations</module>
+       	<module>SBoot-100-Configuration</module>
        	<module>SBoot-200-Data</module>
        	<module>SBoot-300-Web</module>
+       	<module>SBoot-400-Security</module>
        </modules>
+       
+       
 </project>

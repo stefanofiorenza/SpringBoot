@@ -7,9 +7,26 @@
   </parent>
   <artifactId>SBoot-300-Web</artifactId>
   <packaging>pom</packaging>
-  <modules>
-  	<module>SBoot-310-Forms</module>
-  	<module>SBoot-320-Tiles</module>
-  	<module>SBoot-330-Rest</module>
-   </modules>
+  <name>SBoot-300-Web</name>
+  
+     <properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>		
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>	
+    </properties>
+  
+    <dependencies>
+  		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>		
+	</dependencies>	
+	
+	<modules>
+  		<module>SBoot-310-Rest</module>
+  		<module>SBoot-Rest-Export</module>
+  		<module>SBoot-320-Rest-Export</module>
+	</modules>
+	
+     
 </project>

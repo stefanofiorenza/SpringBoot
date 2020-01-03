@@ -1,0 +1,17 @@
+
+SBOOT:
+
+
+100-Configuration:
+
+110: Autoconfiguration tricks
+
+120: ConfigurationSources:
+	
+	.properties
+	.yaml
+	.xml
+	.
+	
+	@ConfigurationProperties
+	profiles

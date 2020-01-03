@@ -5,35 +5,21 @@
     <artifactId>SBoot-000-MASTER</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>SBoot-200-Data</artifactId>
+  <artifactId>SBoot-400-Security</artifactId>
   <packaging>pom</packaging>
-  <name>SBoot-200-Data</name>
+  <name>SBoot-400-Security</name>
   
-    <properties>
+   <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>		
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>	
     </properties>
 
     <dependencies>
-      
-      <!-- jpa, crud repository -->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-data-jpa</artifactId>
-        </dependency>        
-        
-       	<dependency>
-		    <groupId>mysql</groupId>
-		    <artifactId>mysql-connector-java</artifactId>		  
-		</dependency>
-			
-    </dependencies>  
     
-	    
-     
-    <modules>
-    	<module>SBoot-210-Common</module>    	
-    	<module>SBoot-220-Jpa</module>
-    </modules>
+    	<dependency>
+    		<groupId>org.springframework.boot</groupId>
+    		<artifactId>spring-boot-starter-security</artifactId>
+		</dependency>    
+    </dependencies>
 </project>
