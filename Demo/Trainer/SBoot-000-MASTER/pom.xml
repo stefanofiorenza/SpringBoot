@@ -60,6 +60,7 @@
        	<module>SBoot-200-Data</module>
        	<module>SBoot-300-Web</module>
        	<module>SBoot-400-Security</module>
+       	<module>SBoot-700-UTests</module>
        </modules>
        
        
