@@ -19,7 +19,7 @@
   		<!-- Export lib -->
 		<version.csv>2.1.0</version.csv>
 		<version.common.upload>1.3.1</version.common.upload>
-		<version.poi>3.11</version.poi>
+		<version.poi>4.1.2</version.poi>
 	</properties>	
 		
   
